@@ -96,7 +96,7 @@ for (edge in 1:5) {
   title(paste(edge, "edges"))
   
 }
-#doesn't work. meant to read in a bunch of files wo noMissing as header. Doesn't. 
+
 
 setwd("~/analyses/snp_to_vcfs/treemix_outputs")
   #needs to be in the same general filesystem as the treemix outputs
